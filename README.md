@@ -1,6 +1,7 @@
 # EVA: An Embodied World Model for Future Video Anticipation
 Xiaowei Chi*, Hengyuan Zhang*, Dazhuan Fan*,Xingqun Qi, Rongyu Zhang, Anton Chen, 
 Chi-min Zhan, Wenhan Luo, Wei Xue, Shanghang Zhang, Yike Guo
+
 Hong Kong University of Science and Technology, 
 Peking University
 
