@@ -5,8 +5,7 @@
       
 Xiaowei Chi*, Hengyuan Zhang*, Chun-Kai Fan*, Xingqun Qi, Rongyu Zhang, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, 
 Shanghang Zhang, Yike Guo
-
-<br><br>
+<br>
 Hong Kong University of Science and Technology, 
 Peking University
 
@@ -28,6 +27,8 @@ World models integrate raw data from various modalities—such as images and lan
 - [ ] EVA-QA dataset
 - [ ] Text-to-Video dataset 
 - [ ] RTX-to-Video, CALVIN-to-Video data process scripts
+
+
 
 ## Cite EVA
 ```
