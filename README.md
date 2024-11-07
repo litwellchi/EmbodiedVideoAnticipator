@@ -1,7 +1,7 @@
-# ___***EVA: An Embodied World Model for Future Video Anticipation***___
+## ___***EVA: An Embodied World Model for Future Video Anticipation***___
 
 <div align="center">
-<img src='assets/eva_logo_long.png'></img>
+<img src='logo/eva_logo_long.png'></img>
       
 Xiaowei Chi*, Hengyuan Zhang*, Chun-Kai Fan*, Xingqun Qi, Rongyu Zhang, Anthony Chen, Chi-min Chan, Wei Xue, Wenhan Luo, 
 Shanghang Zhang, Yike Guo
