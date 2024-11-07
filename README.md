@@ -1,4 +1,4 @@
-# ___*** EVA: An Embodied World Model for Future Video Anticipation***___
+# ___***EVA: An Embodied World Model for Future Video Anticipation***___
 
 <div align="center">
 <img src='logo/eva_logo_long.png'></img>
