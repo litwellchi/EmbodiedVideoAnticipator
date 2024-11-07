@@ -19,10 +19,10 @@ World models integrate raw data from various modalities—such as images and lan
 
 
 ## Open-Source Plan
-[ ]EVA-2Stage Code.
-[ ]EVA-QA dataset
-[ ]Text-to-Video dataset 
-[ ]RTX-to-Video, CALVIN-to-Video data process scripts
+- [ ] EVA-2Stage Code.
+- [ ] EVA-QA dataset
+- [ ] Text-to-Video dataset 
+- [ ] RTX-to-Video, CALVIN-to-Video data process scripts
 
 ## Cite EVA
 ```
