@@ -1,4 +1,4 @@
-## ___***EVA: An Embodied World Model for Future Video Anticipation***___
+# ___***EVA: An Embodied World Model for Future Video Anticipation***___
 
 <div align="center">
 <img src='logo/eva_logo_long.png'></img>
@@ -10,8 +10,8 @@ Shanghang Zhang, Yike Guo
 Hong Kong University of Science and Technology, 
 Peking University
 
-[![Arxiv](https://img.shields.io/badge/Arxiv-2407.20962-red)](https://arxiv.org/abs/2410.15461)
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://sites.google.com/view/eva-public)
+_**[![Arxiv](https://img.shields.io/badge/Arxiv-2407.20962-red)](https://arxiv.org/abs/2410.15461)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://sites.google.com/view/eva-public)**_
 
 
 
