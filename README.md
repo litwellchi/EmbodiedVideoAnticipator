@@ -10,7 +10,8 @@ Hong Kong University of Science and Technology,
 Peking University
 
 _**[![Arxiv](https://img.shields.io/badge/Arxiv-2407.20962-red)](https://arxiv.org/abs/2410.15461)
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://sites.google.com/view/eva-public)**_
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://sites.google.com/view/eva-public)
+![Python 3.9](https://img.shields.io/badge/Python-3.9-blue)**_
 
 </div>
 
