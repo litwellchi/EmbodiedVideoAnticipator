@@ -24,6 +24,7 @@ World models integrate raw data from various modalities—such as images and lan
 
 
 ## Open-Source Plan
+### Notification: contact litwellchi@gmail.com for experiment code and benchmark data.
 - [ ] EVA-2Stage Code.
 - [ ] EVA-QA dataset
 - [ ] Text-to-Video dataset 
